@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: pink;
+    text-align: center;
+}
+.image {
+  height: 100px;
+  width: 100px;
+ 
+}
